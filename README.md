@@ -59,7 +59,7 @@ Umar Idris
 <li>Problem statement</li>
 <li>Acquisation of historical data </li>
 <li>Exploratory data analysis </li>
-<li>Diffrent Models building</li>
+<li>Built diffrent Models</li>
 <li>Evaluation of Models </li>
 <li>Hyperparamter Optimization</li>
 <li>Create app with Streamlit</li>
