@@ -45,8 +45,9 @@ Umar Idris
     </a>
 </li>  
 </ol>
+
 ### TEAM ASSISTANT
-Percy Makone
+<li> Percy Makone </li>
 
 
 ### Checklist
