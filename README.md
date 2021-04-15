@@ -1,8 +1,9 @@
 # STOCK-MARKET-PRICES-PREDICTION
 This is the repository for the planning and development of Group 3's project and Percy is the T.A.
+The data acquisation from yahoo finance is 
 The final EDA is Nio analysis/STOCK MARKET PREDITION notebook
 
-## Members
+### Members
 <ol>
 <li>
     Ayobami Adeniyi
@@ -44,3 +45,19 @@ Umar Idris
     </a>
 </li>  
 </ol>
+### TEAM ASSISTANT
+Percy Makone
+
+
+### Checklist
+<ul>
+<li>Problem statement</li>
+<li>Acquisation of historical data </li>
+<li>Exploratory data analysis </li>
+<li>Diffrent Models building</li>
+<li>Evaluation of Models </li>
+<li>Hyperparamter Optimization</li>
+<li>Create app with Streamlit</li>
+<li>Deploy app with Heroku
+ </li>
+</ul>
