@@ -1,7 +1,11 @@
 # STOCK-MARKET-PRICES-PREDICTION
 This is the repository for the planning and development of Group 3's project and Percy is the T.A.
-The data acquisation from yahoo finance is 
-The final EDA is Nio analysis/STOCK MARKET PREDITION notebook
+<li> The data acquisation from yahoo finance is
+</li>
+<li> The final EDA is Nio analysis/STOCK MARKET PREDITION notebook 
+</li>
+<li> The streamlit deployment is in Streamlit/Main.py 
+</li?
 
 ### Members
 <ol>
